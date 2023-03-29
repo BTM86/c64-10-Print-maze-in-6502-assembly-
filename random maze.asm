@@ -1,7 +1,3 @@
-; 10 SYS (4864):REM type:"poke 254,255" for full speed
-; 10 SYS (2049)
-
-
 *=$0801
 ;BASIC SPEED SELECT PART
         BYTE    $1c,$08,$0a,$00,$85,$22,$46,$55,$4c,$4c,$20,$53,$50,$45,$45,$44
